@@ -1,0 +1,14 @@
+.section{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e1cec6;
+
+}
+#navbar-example2{
+    background-color: #e1cec6;
+    font-weight: bold;
+    font-size: 22px;
+}
